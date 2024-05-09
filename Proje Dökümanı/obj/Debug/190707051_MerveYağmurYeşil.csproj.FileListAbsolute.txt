@@ -1,0 +1,49 @@
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\bin\Debug\vize.exe.config
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\bin\Debug\vize.exe
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\bin\Debug\vize.pdb
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\190707051_MerveYağmurYeşil.csprojAssemblyReference.cache
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\vize.Form1.resources
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\vize.Form2.resources
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\vize.Properties.Resources.resources
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\190707051_MerveYağmurYeşil.csproj.GenerateResource.cache
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\190707051_MerveYağmurYeşil.csproj.CoreCompileInputs.cache
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\vize.exe
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\vize.pdb
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\YılanOyunu.Form1.resources
+C:\Users\yeşil\source\repos\190707051_MerveYağmurYeşil\obj\Debug\YılanOyunu.Form2.resources
+C:\Users\yeşil\Desktop\Taslak 2\obj\Debug\190707051_MerveYağmurYeşil.csprojAssemblyReference.cache
+C:\Users\yeşil\Desktop\Taslak 2\obj\Debug\YılanOyunu.Form1.resources
+C:\Users\yeşil\Desktop\Taslak 2\obj\Debug\YılanOyunu.Form2.resources
+C:\Users\yeşil\Desktop\Taslak 2\obj\Debug\vize.Properties.Resources.resources
+C:\Users\yeşil\Desktop\Taslak 2\obj\Debug\190707051_MerveYağmurYeşil.csproj.GenerateResource.cache
+C:\Users\yeşil\Desktop\Taslak 2\obj\Debug\190707051_MerveYağmurYeşil.csproj.CoreCompileInputs.cache
+C:\Users\yeşil\Desktop\Taslak 2\obj\Debug\vize.exe
+C:\Users\yeşil\Desktop\Taslak 2\obj\Debug\vize.pdb
+C:\Users\yeşil\Desktop\Taslak 2\bin\Debug\vize.exe.config
+C:\Users\yeşil\Desktop\Taslak 2\bin\Debug\vize.exe
+C:\Users\yeşil\Desktop\Taslak 2\bin\Debug\vize.pdb
+C:\Users\yeşil\Desktop\Taslak 2\obj\Debug\YılanOyunu.Form3.resources
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\bin\Debug\vize.exe.config
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\bin\Debug\vize.exe
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\bin\Debug\vize.pdb
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\obj\Debug\190707051_MerveYağmurYeşil.csprojAssemblyReference.cache
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\obj\Debug\YılanOyunu.Form1.resources
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\obj\Debug\YılanOyunu.Form2.resources
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\obj\Debug\YılanOyunu.Form3.resources
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\obj\Debug\vize.Properties.Resources.resources
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\obj\Debug\190707051_MerveYağmurYeşil.csproj.GenerateResource.cache
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\obj\Debug\190707051_MerveYağmurYeşil.csproj.CoreCompileInputs.cache
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\obj\Debug\vize.exe
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\obj\Debug\vize.pdb
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\bin\Debug\vize.exe.config
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\bin\Debug\vize.exe
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\bin\Debug\vize.pdb
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\obj\Debug\190707051_MerveYağmurYeşil.csprojAssemblyReference.cache
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\obj\Debug\YılanOyunu.Form1.resources
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\obj\Debug\YılanOyunu.Form2.resources
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\obj\Debug\YılanOyunu.Form3.resources
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\obj\Debug\vize.Properties.Resources.resources
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\obj\Debug\190707051_MerveYağmurYeşil.csproj.GenerateResource.cache
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\obj\Debug\190707051_MerveYağmurYeşil.csproj.CoreCompileInputs.cache
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\obj\Debug\vize.exe
+C:\Users\yeşil\Desktop\190707051_MerveYağmurYeşil\Proje Dökümanı\obj\Debug\vize.pdb

@@ -1,0 +1,11 @@
+C:\Users\yeşil\source\repos\vize\bin\Debug\vize.exe.config
+C:\Users\yeşil\source\repos\vize\bin\Debug\vize.exe
+C:\Users\yeşil\source\repos\vize\bin\Debug\vize.pdb
+C:\Users\yeşil\source\repos\vize\obj\Debug\vize.csprojAssemblyReference.cache
+C:\Users\yeşil\source\repos\vize\obj\Debug\vize.Form1.resources
+C:\Users\yeşil\source\repos\vize\obj\Debug\vize.Properties.Resources.resources
+C:\Users\yeşil\source\repos\vize\obj\Debug\vize.csproj.GenerateResource.cache
+C:\Users\yeşil\source\repos\vize\obj\Debug\vize.csproj.CoreCompileInputs.cache
+C:\Users\yeşil\source\repos\vize\obj\Debug\vize.exe
+C:\Users\yeşil\source\repos\vize\obj\Debug\vize.pdb
+C:\Users\yeşil\source\repos\vize\obj\Debug\vize.Form2.resources
